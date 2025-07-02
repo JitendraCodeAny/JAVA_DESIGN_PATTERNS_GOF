@@ -15,6 +15,8 @@ It is like a tried-and-tested solution to a common problem in software design.
 
 Programmers use patterns because they are tried and tested solutions that provide proven, reusable solutions to common software design problems
 
+They help making software cleaner, stronger and easier to fix and grow over time
+
 ```
 
 ### Singleton Design Pattern
