@@ -1,7 +1,4 @@
-
-# GOF Design Patterns in Java
-
-## Implementing some common GOF Design Patterns in Java with real world use cases
+# GOF Design Patterns in Java -Implementing some common GOF Design Patterns in Java with real world use cases
 
 ### What is design pattern ?
 
