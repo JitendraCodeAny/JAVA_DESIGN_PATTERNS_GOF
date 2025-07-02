@@ -13,9 +13,7 @@ It is like a tried-and-tested solution to a common problem in software design.
 
 ```
 
-When programmers use design patterns for Reusability, flexibility, maintainability, testability.
-
-It helps making software cleaner, stronger and easier to fix and grow over time
+Programmers use patterns because they are tried and tested solutions that provide proven, reusable solutions to common software design problems
 
 ```
 
