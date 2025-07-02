@@ -180,6 +180,7 @@ javax.servlet.http.HttpServlet
 
 ### Decorator Design Pattern
 
+```
 The Decorator Pattern lets you add new features to an object without changing its original code or class
 
 Why use Decorator pattern ?
