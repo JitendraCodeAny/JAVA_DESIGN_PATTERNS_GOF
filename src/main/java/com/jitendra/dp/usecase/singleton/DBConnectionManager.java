@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 /**
- *  Singleton pattern ensures that class implementing this pattern, has only one instance and accessed everywhere
+ *  Singleton pattern ensures that class implementing this pattern, only one instance of this class is created and accessed everywhere
  *  Database Connection Manager - Singleton class in Library Management System
  *  This help to centralize the control over DB connections to avoid opening duplicate connections.
  */

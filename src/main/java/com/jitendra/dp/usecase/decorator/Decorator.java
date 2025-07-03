@@ -1,6 +1,6 @@
 package com.jitendra.dp.usecase.decorator;
 
-// Abstract decorator
+// Abstract decorator - implementing Salary
 public abstract class Decorator implements Salary {
     Salary salary;
 

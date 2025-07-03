@@ -6,6 +6,7 @@ public abstract class FlightBooking {
     public final void bookFlight() {
         searchFlight();
         selectSeat();
+        additionalChecks();
         makePayment();
         generateTicket();
     }
@@ -13,6 +14,11 @@ public abstract class FlightBooking {
     protected abstract void searchFlight();
     protected abstract void selectSeat();
     protected abstract void makePayment();
+
+    // hook method
+    protected void additionalChecks() {
+        // default: do nothing
+    }
 
     // Common step implemented in base class
     protected void generateTicket() {

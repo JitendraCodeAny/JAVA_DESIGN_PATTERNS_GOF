@@ -17,4 +17,17 @@ public class InternationalFlightBooking extends FlightBooking {
     protected void makePayment() {
         System.out.println("Processing payment for international flight");
     }
+
+    protected void additionalChecks() {
+        passportCheck();
+        visaCheck();
+    }
+
+    private void passportCheck() {
+        System.out.println("Checking passport");
+    }
+
+    private void visaCheck() {
+        System.out.println("Checking visa");
+    }
 }
